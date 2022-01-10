@@ -24,4 +24,10 @@ a {
 .article {
     font-weight: 300;
     font-size: 42px;
+    color: white;
+}
+
+.aside {
+    font-size: 21px;
+    color: gray;
 }
